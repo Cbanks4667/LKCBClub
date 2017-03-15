@@ -1,0 +1,48 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 85%;
+    margin-left: 2em;
+    margin-right: 2em;    
+}
+section {
+    padding-bottom: 40px;
+}
+
+h1 {     
+    font-size: 160%;
+    color: black;
+    margin-bottom: .5em; 
+}
+h2 {     
+    font-size: 130%;
+    color: black;
+    margin-bottom: .5em;    
+}
+nav {
+    border-bottom: solid 1px bisque;
+    border-top: solid 1px bisque;
+}
+nav ul {
+    text-align: right;
+    list-style: none;
+    padding-right: 40px; 
+}
+nav ul li a{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: solid 1.5px black;
+}
+footer {
+    border-top: solid 1px bisque;
+}
+footer h4 {
+    text-align: right;
+    padding-right: 20px;
+}
+br {
+    clear: both;
+} 
+td {
+    text-align: left;
+    padding: .5em;
+}
